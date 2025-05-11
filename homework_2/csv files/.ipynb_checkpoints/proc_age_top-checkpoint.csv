@@ -1,0 +1,13 @@
+AGE_GROUP,short_title,TOTAL_PROC
+20-49,Entral infus nutrit sub,7
+20-49,Insert endotracheal tube,6
+20-49,Venous cath NEC,9
+>80,Insert endotracheal tube,8
+>80,Packed cell transfusion,13
+>80,Venous cath NEC,20
+<=19,Closed bronchial biopsy,1
+<=19,Venous cath NEC,2
+<=19,Vertebral fx repair,1
+50-79,Entral infus nutrit sub,22
+50-79,Packed cell transfusion,13
+50-79,Venous cath NEC,25
