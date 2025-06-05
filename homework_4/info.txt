@@ -1,0 +1,5 @@
+Names: Seeley McGillis, Evan Smith, Jonathan Wu, Ryan Beam
+
+MWAA environment: McGillis_Wu_Beam_Smith_MWAA
+
+S3 bucket: mcgillis-wu-beam-smith-mwaa
